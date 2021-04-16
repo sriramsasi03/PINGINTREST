@@ -1,0 +1,21 @@
+.center {
+  text-align: center;
+}
+.button {
+  background-color: #ffffff; 
+  border: 2px solid #5e4caf;
+  color: rgb(138, 94, 189);
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #8b4caf;
+  color: white;
+}
